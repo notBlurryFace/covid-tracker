@@ -36,4 +36,3 @@ class App extends Component {
 
 export default App;
 
-//The internet literally has solutions to almost all possible problems. use it wisely. it is a double edged sword, could mke you or destroy you.
